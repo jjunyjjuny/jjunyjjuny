@@ -1,7 +1,8 @@
 # JJUNY
 
 ### Web Front-End Developer
-
+### 
+### 
 
 
  💬 Text Portfolio : [Notion](https://www.notion.so/JJUNY-7b6d60cb92474cf68c5880f78b04b494)
