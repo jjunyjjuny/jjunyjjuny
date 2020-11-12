@@ -1,5 +1,12 @@
 ### JJUNY
-##Web Front-End Developer
+## Web Front-End Developer
+
+
+💬 Email : jjuny546@naver.com
+💬 [Notion](https://www.notion.so/JJUNY-7b6d60cb92474cf68c5880f78b04b494) :  
+💬
+💬
+💬
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
