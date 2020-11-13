@@ -7,9 +7,13 @@ HTML / CSS / JAVASCRIPT / REACT / NODEJS
  
 #### 💬 Visual Portfolio : [Game](http://jjuny.herokuapp.com/)
 
-#### 🌱 Currently Work : [translator](https://jjuny-translator.herokuapp.com/),   [(source code)](https://github.com/jjunyjjuny/translator) 
+#### 💬 Blog : [Velog](https://velog.io/@jjunyjjuny)
 
 #### 📫 Contact me : jjuny546@naver.com
+
+
+#### 🌱 Currently Work : [translator](https://jjuny-translator.herokuapp.com/),   [(source code)](https://github.com/jjunyjjuny/translator) 
+
 
 
 
