@@ -12,7 +12,7 @@ HTML / CSS / JAVASCRIPT / REACT / NODEJS
 #### 📫 Contact me : jjuny546@naver.com
 
 
-#### 🌱 Currently Work : [translator](https://jjuny-translator.herokuapp.com/),   [(source code)](https://github.com/jjunyjjuny/translator) 
+#### 🌱 Currently Work : [Deact](https://jjuny-translator.herokuapp.com/),   [(source code)](https://github.com/jjunyjjuny/Deact) 
 
 
 
