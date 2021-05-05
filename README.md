@@ -16,6 +16,10 @@ HTML / CSS / JAVASCRIPT / REACT / NODEJS
 
 #### 📫 Contact me : jjuny546@naver.com
 
+<hr/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunyjjuny)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjunyjjuny&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
  🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 
 
