@@ -11,7 +11,7 @@ HTML / CSS / JAVASCRIPT / REACT / NODEJS
 
  - ✏️ Education : 코드스쿼트 프론트엔드 마스터즈 코스
  
- - ⚡ work : [Deact](https://jjuny-translator.herokuapp.com/)  [(source code)](https://github.com/jjunyjjuny/Deact) 
+ - ⚡ work : 
 
 
 #### 📫 Contact me : jjuny546@naver.com
