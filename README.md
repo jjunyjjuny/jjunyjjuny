@@ -9,9 +9,7 @@ HTML / CSS / JAVASCRIPT / REACT / NODEJS
 
 #### 🌱 Currently  : 
 
- - ✏️ Education : 코드스쿼트 프론트엔드 마스터즈 코스
- 
- - ⚡ work : 
+ - ✏️ Education : 우아한테크캠프 4기 
 
 
 #### 📫 Contact me : jjuny546@naver.com
