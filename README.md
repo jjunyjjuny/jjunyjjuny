@@ -9,12 +9,8 @@
 [![recoil Badge](https://img.shields.io/badge/recoil-000?style=flat-square&logo=recoil&logoColor=white)]()
 
 
-[NOTION](https://www.notion.so/JJUNY-7b6d60cb92474cf68c5880f78b04b494) / [BLOG](https://velog.io/@jjunyjjuny)
+[BLOG](https://velog.io/@jjunyjjuny)
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunyjjuny)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjunyjjuny&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
- 🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 
 
